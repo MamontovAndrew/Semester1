@@ -1,0 +1,5 @@
+|Carlsen                  |Magnus                   |1990                     |2842                     |2892                     |
+|Jan-Krzysztof            |Duda                     |1998                     |2801                     |2792                     |
+|Ian                      |Nepomniachtchi           |1990                     |2798                     |2792                     |
+|Alexander                |Grischuk                 |1983                     |2763                     |2757                     |
+|Fabiano                  |Caruana                  |1992                     |2770                     |2803                     |
